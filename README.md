@@ -1,6 +1,6 @@
 ## Olá eu sou Guilherme Reis Carvalho
 - 🔭 Hoje trabalho com back-end
-- 🌱 Estou focado no aprendizado de CSS
+- 🌱 Estou focado no aprendizado de C++
 - 📫 Contate-me no email: guiestudos2005@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiiRCarvalho&show_icons=true&theme=radical&count_private=true)
