@@ -1,7 +1,19 @@
-Software Development Intern | Software Engineering Student @ PUC-PR 🚀
-Building, deploying, and scaling resilient systems with a focus on Developer Experience.
+# Hi, I'm Guilherme Carvalho! 👋
 
-I'm a software developer passionate about Backend Development, DevOps, Clean Architecture, and creating tools that help other developers move faster and smarter. Currently, I'm documenting my journey of building ecommerce systen
+### Software Development Intern @ | Software Engineering Student @ PUC-PR 🚀
+**Building, deploying, and scaling resilient systems with a focus on Developer Experience.**
+
+I'm a software developer passionate about **Backend Development**, **DevOps**, **Clean Architecture**, and creating tools that help other developers move faster and smarter. Currently, I'm documenting my journey of building an ecommerce system for clothes.
+
+---
+
+### 🛠️ Featured 
+
+<div align="center">
+  <h3>🚀 <a href="https://github.com/GuiiRCarvalho/atitude-ecommerce">ATITUDE-ECOMMERCE</a></h3>
+  <p><b>The Ultimate Scaffolding Tool for Modern Backends.</b></p>
+  <p>Generate production-ready projects with Clean/Hexagonal Architecture, Docker, and Terraform in seconds.</p>
+</div>
 
 
 
