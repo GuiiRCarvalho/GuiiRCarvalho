@@ -1,10 +1,9 @@
-## Olá eu sou Guilherme Reis Carvalho
-- 🔭 Hoje trabalho com back-end
-- 🌱 Estou focado no aprendizado de Java
-- 📫 Contate-me no email: guiestudos2005@gmail.com
+Software Development Intern | Software Engineering Student @ PUC-PR 🚀
+Building, deploying, and scaling resilient systems with a focus on Developer Experience.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GuiiRCarvalho&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuiiRCarvalho&layout=compact&theme=radical)
+I'm a software developer passionate about Backend Development, DevOps, Clean Architecture, and creating tools that help other developers move faster and smarter. Currently, I'm documenting my journey of building ecommerce systen
+
+
 
 <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   
