@@ -11,8 +11,6 @@ I'm a software developer passionate about **Backend Development**, **DevOps**, *
 
 <div align="center">
   <h3>🚀 <a href="https://github.com/GuiiRCarvalho/atitude-ecommerce">ATITUDE-ECOMMERCE</a></h3>
-  <p><b>The Ultimate Scaffolding Tool for Modern Backends.</b></p>
-  <p>Generate production-ready projects with Clean/Hexagonal Architecture, Docker, and Terraform in seconds.</p>
 </div>
 
 
